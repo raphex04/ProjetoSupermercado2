@@ -1,0 +1,11 @@
+{
+    "produtos": [
+        {
+            "img": "../../assets/banana.webp",
+            "nome": "Banana nanica",
+            "descricao": "Banana nanica com ótimo preço",
+            "id": 1,
+            "valor": 30 
+        }
+    ]
+}
